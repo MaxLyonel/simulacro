@@ -1,8 +1,9 @@
 [
     {
         "id": "1",
-        "nombre": "Leonela",
-        "paterno": "Vargasssssssssss",
+        "nombre": "Leonel",
+        "paterno": "Vargas",
+    
         "materno": "Ramirez",
         "genero": "Masculino",
         "nacionalidad": "boliviano"
