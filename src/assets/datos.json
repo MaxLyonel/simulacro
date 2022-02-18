@@ -1,0 +1,40 @@
+[
+    {
+        "id": "1",
+        "nombre": "Leonel",
+        "paterno": "Vargas",
+        "materno": "Ramirez",
+        "genero": "Masculino",
+        "nacionalidad": "boliviano"
+    },{
+        "id": "2",
+        "nombre": "Blanca",
+        "paterno": "Quispe",
+        "materno": "Pari",
+        "genero": "Femenino",
+        "nacionalidad":"boliviana"
+    },{
+        "id": "3",
+        "nombre": "Leandro",
+        "paterno": "torrez",
+        "materno": "lopez",
+        "genero": "Masculino",
+        "nacionalidad": "boliviano"
+    }, {
+        "id": "4",
+        "nombre": "José",
+        "paterno": "Flores",
+        "materno": "Quisbert",
+        "genero": "Masculino",
+        "nacionalidad": "boliviano"
+    }
+    , {
+        "id": "5",
+        "nombre": "Issues",
+        "paterno": "project",
+        "materno": "milestone",
+        "genero": "masculino",
+        "nacionalidad": "boliviana"
+    }
+]
+
