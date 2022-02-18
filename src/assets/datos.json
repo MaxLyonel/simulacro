@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "21",
         "nombre": "Leonel",
         "paterno": "Vargas",
         "materno": "Ramirez",
@@ -8,7 +8,7 @@
         "nacionalidad": "boliviano"
     },{
         "id": "2",
-        "nombre": "Blanca",
+        "nombre": "Bla",
         "paterno": "Quispe",
         "materno": "Pari",
         "genero": "Femenino",
